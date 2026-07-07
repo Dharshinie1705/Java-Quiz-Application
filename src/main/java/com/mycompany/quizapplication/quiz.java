@@ -6,7 +6,7 @@ package com.mycompany.quizapplication;
 
 /**
  *
- * @author Kiruthika
+ * @author Dharshini
  */
 public class quiz {
     
