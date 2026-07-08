@@ -56,3 +56,17 @@ java -jar quizapplication-1.0-SNAPSHOT.jar
 
 GitHub:
 https://github.com/Dharshinie1705
+
+## 📸 Screenshots
+
+### Home Screen
+
+![Home Screen](screenshots/home.png)
+
+### Quiz Screen
+
+![Quiz Screen](screenshots/quiz.png)
+
+### Result Screen
+
+![Result Screen](screenshots/result.png)
