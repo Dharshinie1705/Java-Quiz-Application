@@ -61,12 +61,12 @@ https://github.com/Dharshinie1705
 
 ### Home Screen
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.png.png)
 
 ### Quiz Screen
 
-![Quiz Screen](screenshots/quiz.png)
+![Quiz Screen](screenshots/quiz.png.png)
 
 ### Result Screen
 
-![Result Screen](screenshots/result.png)
+![Result Screen](screenshots/result.png.png)
